@@ -9,16 +9,16 @@ The RocketMQ team is comprised of Members and Contributors. Members have direct 
 
 ### Members
 
-The following is a list of developers with commit privileges that have directly contributed to the project in one way or another.
+The following is a list of developers with commit privileges that have directly contributed to the project in one way or another, or you can refer to [here](https://projects.apache.org/committee.html?rocketmq) for the complete committee information of Apache RocketMQ.
 
 |Image| Id| Github Id | Email |[Roles](https://www.apache.org/foundation/how-it-works.html#roles)| Time Zone|
 |:---|:---|:---|:---|:---|:---|
+|![vintagewang](/assets/images/about/vintagewang.jpeg)|vintagewang|[@vintagewang](https://github.com/vintagewang)|vintagewang@apache.org |PMC Chair| +8|
 |![bsnyde](/assets/images/about/bsnyder.jpeg)|bsnyder| [@bsnyder](https://github.com/bsnyder)|bsnyder@apache.org |PMC Member| -7 |
 |![justinmclean](/assets/images/about/justinmclean.jpeg)|jmclean| [@justinmclean](https://github.com/justinmclean)|jmclean@apache.org |PMC Member| +11 |
 |![jim](/assets/images/about/jim.jpg)|jim| [@jim](https://github.com/jimjag)|jim@apache.org |PMC Member| -7 |
 |![WillemJiang](/assets/images/about/WillemJiang.jpeg)|ningjiang| [@WillemJiang](https://github.com/WillemJiang)|ningjiang@apache.org |PMC Member| +8 |
 |![vongosling](/assets/images/about/vongosling.jpeg)|vongosling|[@vongosling](https://github.com/vongosling)|vongosling@apache.org |PMC Member| +8 |
-|![vintagewang](/assets/images/about/vintagewang.jpeg)|vintagewang|[@vintagewang](https://github.com/vintagewang)|vintagewang@apache.org |PMC Member| +8|
 |![zhouxinyu](/assets/images/about/zhouxinyu.png)|yukon|[@zhouxinyu](https://github.com/zhouxinyu)|yukon@apache.org |PMC Member| +8 |
 |![lizhanhui](/assets/images/about/lizhanhui.jpg)|lizhanhui|[@lizhanhui](https://github.com/lizhanhui)|lizhanhui@apache.org |PMC Member| +8 |
 |![dongeforever](/assets/images/about/dongeforever.jpeg)|dongeforever|[@dongeforever](https://github.com/dongeforever)|dongeforever@apache.org |PMC Member| +8 |
@@ -48,6 +48,10 @@ The following is a list of developers with commit privileges that have directly 
 |![liuruiyiyang](/assets/images/about/liurui.jpeg)|liurui| [@liuruiyiyang](https://github.com/liuruiyiyang)|liurui@apache.org|Committer| +8 |
 |![maixiaohai](/assets/images/about/zhangxu.png)|maixiaohai|[@maixiaohai](https://github.com/maixiaohai)|maixiaohai@apache.org|Committer| +8 |
 |![lizhimin](/assets/images/about/lizhimin.jpg)|lizhimins| [@lizhimins](https://github.com/lizhimins)|lizhimin@apache.org|Committer| +8 |
+|![StyleTang](/assets/images/about/styletang.jpeg)|styletang| [@styletang](https://github.com/styletang)|styletang@apache.org|Committer| +8 |
+|![yuz10](/assets/images/about/yuz10.jpeg)|Yu Zhou| [@yuz10](https://github.com/yuz10)|yuzhou@apache.org|Committer| +8 |
+|![zhangjidi](/assets/images/about/zhangjidi.jpeg)|ZhangJiDi| [@zhangjidi](https://github.com/zhangjidi2016)|zhangjidi@apache.org|Committer| +8 |
+|![nicholasjiang](/assets/images/about/nicholasjiang.jpg)|Nicholas Jiang| [@SteNicholas](https://github.com/SteNicholas)|nicholasjiang@apache.org|Committer| +8 |
 
 ### Top Contributors
 

@@ -57,7 +57,7 @@
 
 
   <meta property="og:type" content="article">
-  <meta property="article:published_time" content="2021-08-09T15:32:06+08:00">
+  <meta property="article:published_time" content="2021-09-23T14:59:33+00:00">
 
 
 
@@ -511,14 +511,14 @@ and receive messages.</p>
 
 <h1 id="download--build-from-release">Download &amp; Build from Release</h1>
 
-<p>Click <a href="https://www.apache.org/dyn/closer.cgi?path=rocketmq/4.9.0/rocketmq-all-4.9.0-source-release.zip">here</a> to download the 4.9.0 source release. Also you could download a binary release from <a href="https://www.apache.org/dyn/closer.cgi?path=rocketmq/4.9.0/rocketmq-all-4.9.0-bin-release.zip">here</a>.</p>
+<p>Click <a href="https://www.apache.org/dyn/closer.cgi?path=rocketmq/4.9.1/rocketmq-all-4.9.1-source-release.zip">here</a> to download the 4.9.1 source release. Also you could download a binary release from <a href="https://www.apache.org/dyn/closer.cgi?path=rocketmq/4.9.1/rocketmq-all-4.9.1-bin-release.zip">here</a>.</p>
 
-<p>Now execute the following commands to unpack 4.9.0 source release and build the binary artifact.</p>
+<p>Now execute the following commands to unpack 4.9.1 source release and build the binary artifact.</p>
 
-<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  <span class="o">&gt;</span> unzip rocketmq-all-4.9.0-source-release.zip
-  <span class="o">&gt;</span> <span class="nb">cd </span>rocketmq-all-4.9.0/
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  <span class="o">&gt;</span> unzip rocketmq-all-4.9.1-source-release.zip
+  <span class="o">&gt;</span> <span class="nb">cd </span>rocketmq-all-4.9.1/
   <span class="o">&gt;</span> mvn <span class="nt">-Prelease-all</span> <span class="nt">-DskipTests</span> clean <span class="nb">install</span> <span class="nt">-U</span>
-  <span class="o">&gt;</span> <span class="nb">cd </span>distribution/target/rocketmq-4.9.0/rocketmq-4.9.0
+  <span class="o">&gt;</span> <span class="nb">cd </span>distribution/target/rocketmq-4.9.1/rocketmq-4.9.1
 </code></pre></div></div>
 <h1 id="linux">Linux</h1>
 
@@ -538,7 +538,7 @@ and receive messages.</p>
 
 <h2 id="send--receive-messages">Send &amp; Receive Messages</h2>
 
-<p>Before sending/receiving messages, we need to tell clients the location of name servers. RocketMQ provides multiple ways to achieve this. For simplicity, we use environment variable <code class="highlighter-rouge">NAMESRV_ADDR</code></p>
+<p>Before sending/receiving messages, we need to tell clients the location of name servers. RocketMQ provides multiple ways to achieve this. For simplicity, we use environment variable <code class="language-plaintext highlighter-rouge">NAMESRV_ADDR</code></p>
 
 <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <span class="o">&gt;</span> <span class="nb">export </span><span class="nv">NAMESRV_ADDR</span><span class="o">=</span>localhost:9876
  <span class="o">&gt;</span> sh bin/tools.sh org.apache.rocketmq.example.quickstart.Producer
@@ -563,7 +563,7 @@ Send shutdown request to mqnamesrv<span class="o">(</span>36664<span class="o">)
 
 <p>The guide is working for windows 10 , please make sure you have powershell installed.</p>
 
-<p>Download latest binary release. and extract zip file into your local disk. Such as: <code class="highlighter-rouge">D:\rocketmq</code></p>
+<p>Download latest binary release. and extract zip file into your local disk. Such as: <code class="language-plaintext highlighter-rouge">D:\rocketmq</code></p>
 
 <h2 id="add-environment-variables">Add Environment Variables</h2>
 
